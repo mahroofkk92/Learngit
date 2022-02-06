@@ -8,6 +8,7 @@
 </head>
 <body>
 	<div>Learn App html dfdfdfdfd</div>
+<<<<<<< HEAD
 	<div style="color:green">Hello worl I am here</div>
 <div style="color:green">Hello worl I am here</div>
 
@@ -20,5 +21,25 @@
 <div style="color:green">Hello worl I am here</div>
 <div style="color:green">Hello worl I am here</div>
 <div style="color:green">Hello worl I am here</div>
+=======
+	<div>Learn App htmcd dddddddl</div>
+	<div>Learn App html</div>
+
+	<div>Learn App html dfdfdfdfd</div>
+	<div>Learn App htmcd dddddddl</div>
+	<div>Learn App html</div>
+
+	<div>Learn App html dfdfdfdfd</div>
+	<div>Learn App htmcd dddddddl</div>
+	<div>Learn App html</div>
+
+	<div>Learn App html dfdfdfdfd</div>
+	<div>Learn App htmcd dddddddl</div>
+	<div>Learn App html</div>
+
+	<div>Learn App html dfdfdfdfd</div>
+	<div>Learn App htmcd dddddddl</div>
+	<div>Learn App html</div>
+>>>>>>> branch-2
 </body>
 </html>
